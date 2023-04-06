@@ -4,3 +4,5 @@
 
 * Vetores
 * Matrizes
+* Listas
+* Enumerações e Composições
